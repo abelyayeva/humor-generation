@@ -1,0 +1,2 @@
+num_vertices,num_edges,average_degree,density,average_clustering_coefficient,assortativity,connected_components,giant_component_size,giant_component_ratio,average_shortest_path_length,diameter,average_degree_centrality,average_betweenness_centrality,average_closeness_centrality,average_eigenvector_centrality
+1631,289859,355.43715511955855,0.10902980218391367,0.5080814973144692,-0.8644286059782194,1,1631,1.0,1.9157639748281945,4,0.21805960436782734,0.0005551464673471155,0.546685887960827,0.02078629231743702

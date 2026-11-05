@@ -1,0 +1,34 @@
+                  Анекдот_среднее  Лит_среднее  Анекдот_std   Лит_std  
+out_degree                87.6667      76.7353     160.7272  153.0992   
+in_degree                 62.8095     190.2059     287.8294  904.7284   
+total_degree             150.4762     266.9412     383.7157  982.6058   
+unique_neighbors         111.1429     117.4706     313.5167  341.6369   
+degree_ratio               0.1649       0.4842       0.7555    2.2897   
+avg_out_prob               0.0055       0.0039       0.0157    0.0124   
+min_out_prob               0.0003       0.0003       0.0007    0.0007   
+max_out_prob               0.0500       0.0250       0.1250    0.0842   
+std_out_prob               0.0081       0.0051       0.0185    0.0160   
+unexpected_ratio           0.1787       0.1574       0.3592    0.3404   
+
+                  Разница_средних  Относительная_разница_%  
+out_degree                10.9314                     14.2  
+in_degree               -127.3964                    -67.0  
+total_degree            -116.4650                    -43.6  
+unique_neighbors          -6.3277                     -5.4  
+degree_ratio              -0.3193                    -66.0  
+avg_out_prob               0.0016                     40.7  
+min_out_prob              -0.0000                    -10.7  
+max_out_prob               0.0250                    100.0  
+std_out_prob               0.0030                     57.8  
+unexpected_ratio           0.0213                     13.5  
+
+out_degree: в анекдоте выше (87.67 vs 76.74)
+in_degree: в анекдоте ниже (62.81 vs 190.21)
+total_degree: в анекдоте ниже (150.48 vs 266.94)
+unique_neighbors: в анекдоте ниже (111.14 vs 117.47)
+degree_ratio: в анекдоте ниже (0.16 vs 0.48)
+avg_out_prob: в анекдоте выше (0.01 vs 0.00)
+min_out_prob: в анекдоте ниже (0.00 vs 0.00)
+max_out_prob: в анекдоте выше (0.05 vs 0.03)
+std_out_prob: в анекдоте выше (0.01 vs 0.01)
+unexpected_ratio: в анекдоте выше (0.18 vs 0.16)
